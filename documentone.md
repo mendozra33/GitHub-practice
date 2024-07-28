@@ -1,2 +1,2 @@
 # This is the title of document one #
-* This is another file for this repo
+* edited in the remote branch This is another file for this repo
